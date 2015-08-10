@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ilm</string>
+    <string name="action_settings">Settings</string>
+    <string name="connection_or_xml_error">Connection Or XML Error</string>
+    <string name="xml_error">XML file error</string>
+    <string name="no_connection">Pole nii WiFi, kui ka 3G internetiühendust. Kontrollige, et internet oleks sees.</string>
+    <string name="ok">OK</string>
+    <string name="any">Any</string>
+    <string name="wifi">WiFi</string>
+    <string name="no_data">Andmed puuduvad</string>
+    <string name="no_desc">Vajab internetiühendust</string>
+    <string name="main_tab">Homme</string>
+    <string name="forecasts_tab">Lähipäevadel</string>
+    <string name="places_tab">Linnad</string>
+
+</resources>

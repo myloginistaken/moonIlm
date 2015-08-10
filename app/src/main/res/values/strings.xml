@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ilm</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_connection">Pole nii WiFi, kui ka 3G internetiühendust. Kontrollige, et internet oleks sees.</string>
+    <string name="no_3g_connection">3G võrgus andmete alla laadimine on välja lülitatud. Muudke seaded või kasutage WiFi ühendust.</string>
+    <string name="any">Any</string>
+    <string name="wifi">WiFi</string>
+    <string name="wifi_only">Luba ainult WiFi võrgus</string>
+    <string name="no_data">Andmed puuduvad</string>
+    <string name="no_desc">Vajab internetiühendust</string>
+    <string name="main_tab">Tulekul</string>
+    <string name="forecasts_tab">Lähipäevadel</string>
+    <string name="places_tab">Linnad</string>
+    <string name="settings_tab">Seaded</string>
+    <string name="temp">Temperatuur:&#160;</string>
+    <string name="wind">Tuul:&#160;</string>
+    <string name="wind_unit">&#160;m/s</string>
+    <string name="temp_unit"> °C</string>
+    <string name="temp_unit_words">&#160;kraadi</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="label1">Vali linn</string>
+    <string name="label2">Andmete alla laadimine</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <array name="weekday">
+        <item>Pühapäev</item>
+        <item>Esmaspäev</item>
+        <item>Teisipäev</item>
+        <item>Kolmapäev</item>
+        <item>Neljapäev</item>
+        <item>Reede</item>
+        <item>Laupäev</item>
+    </array>
+    <array name="digits">
+        <item>null</item>
+        <item>üks</item>
+        <item>kaks</item>
+        <item>kolm</item>
+        <item>neli</item>
+        <item>viis</item>
+        <item>kuus</item>
+        <item>seitse</item>
+        <item>kaheksa</item>
+        <item>üheksa</item>
+    </array>
+    <array name="tens">
+        <item>kümme</item>
+        <item>kakskümmend</item>
+        <item>kolmkümmend</item>
+        <item>nelikümmend</item>
+    </array>
+    <string name="teist">teist</string>
+    <string name="minus">miinus&#160;</string>
+    <string name="kuni">&#160;kuni&#160;</string>
+
+    <array name="place_names">
+        <item>Vaikimisi</item>
+        <item>Harku</item>
+        <item>Jõhvi</item>
+        <item>Tartu</item>
+        <item>Pärnu</item>
+        <item>Kuressaare</item>
+        <item>Türi</item>
+    </array>
+
+</resources>

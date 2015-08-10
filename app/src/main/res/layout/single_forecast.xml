@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/forc_date"
+        android:textColor="@color/white"
+        android:text="date"
+        android:paddingTop="25dp"
+        android:paddingLeft="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/forc_weekday"
+        android:textColor="@color/white"
+        android:text="week"
+        android:paddingTop="25dp"
+        android:paddingLeft="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf= "@+id/forc_date" />
+
+    <TextView
+        android:id="@+id/ic_forc"
+        android:textColor="@color/white"
+        android:paddingRight="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true" />
+
+    <TextView style="?android:textAppearanceMedium"
+        android:id="@+id/forc_temp"
+        android:padding="25dp"
+        android:textColor="@color/white"
+        android:text="temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/ic_forc" />
+
+    <TextView
+        android:id="@+id/forc_desc"
+        android:padding="15dp"
+        android:textColor="@color/white"
+        android:text="long description that does not fit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/forc_date" />
+</RelativeLayout>
